@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Тестовое приложение</string>
+    <string name="action_photo">Фото</string>
+    <string name="camera_photo">Сделать снимок</string>
+    <string name="creatPhoto">Созданные фото</string>
+    <string name="deletePhoto">Удаленные фото</string>
+</resources>
